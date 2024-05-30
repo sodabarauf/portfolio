@@ -54,7 +54,6 @@ p {
   background-size: cover;
   "background-image":
     linear-gradient(
-      62(deg),
       #181719 100%
     );
 }
