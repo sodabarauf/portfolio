@@ -53,9 +53,9 @@ p {
   background-repeat: no-repeat;
   background-size: cover;
   background-image:
-    'linear-gradient'(
+    "linear-gradient"(
       62deg,
-   #181719 100%
+    #181719 100%
     );
 }
 
