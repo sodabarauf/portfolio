@@ -53,10 +53,10 @@ p {
   background-repeat: no-repeat;
   background-size: cover;
   background-image:
-  linear-gradient(
-    62deg,
-    #181719 100%
-  );
+    'linear-gradient'(
+      62deg,
+   #181719 100%
+    );
 }
 
 #welcome-section:hover {
@@ -110,7 +110,7 @@ h2 {
   width: 100%;
   max-width: 1280px;
   margin: 0 auto;
-  margin-bottom: 6rem; 
+  margin-bottom: 6rem;
 }
 
 .project-img:hover {
@@ -148,7 +148,7 @@ h2 {
     display: flex;
     margin-bottom: 300px;
   }
-  
+
   li {
     color: black;
   }
